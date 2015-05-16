@@ -2,6 +2,6 @@
 
 ======
 
-Ultra hard and mysterious [https://slack.com/](Slack) Theme (◕‿◕✿)
+Ultra hard and mysterious [Slack](https://slack.com/) Theme (◕‿◕✿)
 
 ![56](https://github.com/Fifty6/I-WAS-THINKING-ABOUT-US/kare.png "56")
