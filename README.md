@@ -1,2 +1,7 @@
-# I-WAS-THINKING-ABOUT-US
-56 Slack Theme (◕‿◕✿)
+# I was thinking about us
+
+======
+
+Ultra hard and mysterious [https://slack.com/](Slack) Theme (◕‿◕✿)
+
+![56](https://github.com/Fifty6/I-WAS-THINKING-ABOUT-US/kare.png "56")
